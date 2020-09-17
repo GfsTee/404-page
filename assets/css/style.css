@@ -1,0 +1,42 @@
+/* Farben: #565c73, #CDD4DE */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background: url(../img/bg.jpg) center / cover no-repeat;
+    color: #CDD4DE;
+    text-align: center;
+
+}
+/* h1 {
+    color: #565c73;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 700;
+    margin-top: .5vh;
+}
+h2 {
+    font-size: 14rem;
+    margin: 30vh 0 5vh;
+}
+h3 {
+    font-size: 3rem;
+    margin-bottom: 0;
+}
+h4 {
+    margin-top: 1vh;
+    margin-bottom: 25vh;
+} */
+a {
+    text-decoration: none;
+    color: #CDD4DE;
+    text-transform: uppercase;
+    border: 1px solid #CDD4DE;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    margin-top: 5vh;
+}
+a:hover {
+    background: rgba(63, 25, 25, 0.169);
+    
+}
