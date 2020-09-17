@@ -8,7 +8,7 @@ body {
     text-align: center;
 
 }
-/* h1 {
+h1 {
     color: #565c73;
     font-size: 1rem;
     font-style: italic;
@@ -26,7 +26,7 @@ h3 {
 h4 {
     margin-top: 1vh;
     margin-bottom: 25vh;
-} */
+}
 a {
     text-decoration: none;
     color: #CDD4DE;
@@ -36,9 +36,6 @@ a {
     border-radius: 5px;
     margin-top: 5vh;
 }
-
-
 a:hover {
-    background: rgba(63, 25, 25, 0.169);
-    color: red;
+    background: rgba(0 , 0, 0, 0.1);
 }
